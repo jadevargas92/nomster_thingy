@@ -6,6 +6,8 @@ gem 'sass-rails'
 gem 'will_paginate'
 gem 'simple_form'
 gem 'devise', '>= 3.2.4'
+gem 'geocoder'
+gem 'figaro', '>=1.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
